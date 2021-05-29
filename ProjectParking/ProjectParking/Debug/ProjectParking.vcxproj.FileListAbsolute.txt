@@ -1,0 +1,6 @@
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Debug\ProjectParking.vcxprojAssemblyReference.cache
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Debug\ProjectParking.MyForm.resources
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Debug\ProjectParking.vcxproj.GenerateResource.cache
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Debug\ProjectParking.Manager.resources
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Debug\ProjectParking.InputAdminPassword.resources
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Debug\ProjectParking.Administrator.resources

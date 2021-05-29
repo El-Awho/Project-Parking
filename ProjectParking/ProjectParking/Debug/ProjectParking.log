@@ -1,0 +1,24 @@
+﻿  Manager.cpp
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(152,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(165,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(176,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(608,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(624,43): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(633,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(687,52): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(708,27): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.cpp
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Administrator.h(150,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Administrator.h(463,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(152,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(165,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(176,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(608,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(624,43): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(633,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(687,52): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\Manager.h(708,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bbbb\source\repos\ProjectParking\ProjectParking\MyForm.cpp(11,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
+  Administrator.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ProjectParking.vcxproj -> C:\Users\bbbb\source\repos\ProjectParking\Debug\ProjectParking.exe

@@ -1,0 +1,4 @@
+CountOfParkPlaces = 25
+Floors = 1
+PriceForHour = 5
+PriceForDay = 120
